@@ -89,3 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 For more detailed API documentation, visit [http://localhost:8000/docs](http://localhost:8000/docs) after running the app.
+![Alt](https://repobeats.axiom.co/api/embed/eabe6508a91fa38b4ace0060919094363916f544.svg "Repobeats analytics image")
